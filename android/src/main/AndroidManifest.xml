@@ -9,5 +9,4 @@
       android:foregroundServiceType="specialUse"
       android:exported="true" />
   </application>
-  </application>
 </manifest>
